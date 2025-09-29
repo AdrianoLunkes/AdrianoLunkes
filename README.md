@@ -5,42 +5,47 @@
 ## About Me
 Graduated in Administration from UNISINOS 🎓 with a GPA of 8.5, I enhanced my data analysis skills 💡 through hands-on experience in Customer Success at GEDORE Tool Group. Committed to teamwork 👥 and effective communication 🗣️, I'm proactively seeking to make a positive impact on customers and colleagues. Staying up-to-date in the technology field 💻 while expanding into the new AI era 📈.  
 
-Passionate about turning data into actionable insights, I specialize in data visualization, reporting, and automation. With a background in HR, customer success, and operational management— including practical experience with Python for basic automation, PowerShell for ETL processes (reducing processing time by 40 minutes per run), VBA for scripting sales reports, and SQL for complex queries—I'm eager to collaborate on data-driven projects. Let's connect!
+Passionate about turning data into actionable insights, I specialize in data visualization, reporting, and automation. With practical experience in Python for basic automation, PowerShell for ETL processes (reducing processing time by 40 minutes per run), VBA for scripting sales reports, and SQL for complex queries, I'm eager to collaborate on data-driven projects. Let's connect!
 
+
+
+## Tech Stack
+📊 **Power BI** | 🔍 **Power Query** | 🎨 **PowerPoint** | 💾 **SQL Databases** | 🌐 **Postman** | 📉 **Excel**  
+🐍 **Python** | ⚙️ **PowerShell** | 📝 **VBA** | 📈 **DAX** | 🖥️ **M Language** | 🗃️ **SQL**
 
 ## Skills
-### Tools
-- Power BI 📊
-- Power Query 🔍
-- PowerPoint 🎨
-- SQL Databases 💾
-- Postman 🌐
-- Excel 📉
-
 ### Programming Languages
-- Python 🐍
-- PowerShell ⚙️
-- VBA 📝
-- DAX 📈
-- M Language 🖥️
-- SQL 🗃️
+- 🐍 **Python** - Basic automation and data processing  
+- ⚙️ **PowerShell** - ETL automation and scripting  
+- 📝 **VBA** - Scripting for reports and macros  
+- 📈 **DAX** - Advanced measures in Power BI  
+- 🖥️ **M Language** - Data transformation in Power Query  
+- 🗃️ **SQL** - Complex queries and database management  
+
+### Tools
+- 📊 **Power BI** - Dashboard development and reporting  
+- 🔍 **Power Query** - Data transformation  
+- 🎨 **PowerPoint** - Presentation design  
+- 💾 **SQL Databases** - Data management  
+- 🌐 **Postman** - API testing  
+- 📉 **Excel** - Data analysis and reporting  
 
 ### Languages
-- Portuguese 🇧🇷 (Native)
-- English 🇺🇸 (Advanced)
-- Spanish 🇪🇸 (Basic)
-- Japanese 🇯🇵 (Basic)
-- Brazilian Sign Language (Libras) 🤟 (Basic)
+- 🇧🇷 **Portuguese** (Native)  
+- 🇺🇸 **English** (Advanced)  
+- 🇪🇸 **Spanish** (Basic)  
+- 🇯🇵 **Japanese** (Basic)  
+- 🤟 **Brazilian Sign Language (Libras)** (Basic)  
 
 ## Experience
 ### Data Assistant - GEDORE Tool Group, Brazil  
 *August 2024 – August 2025*  
 - Created and maintained Power BI reports for multiple departments, focusing on transport companies, sales performance, and representative bonus calculations.  
 - Developed high-impact reports enhancing team efficiency and client outcomes.  
-- Analyzed price lists, correlating discounts with payment conditions to optimize sales strategies.  
+- Analyzed price lists with SQL, correlating discounts with payment conditions to optimize sales strategies.  
 - Supported the financial sector by identifying order blockages, improving process transparency.  
 - Conducted trade marketing analyses on exclusive launch items to boost campaign effectiveness.  
-- Utilized SQL, VBA, PowerShell, and Power Automate for data extraction and process automation.  
+- Utilized VBA and PowerShell for data extraction and process automation.  
 
 ### Customer Success Assistant - GEDORE Tool Group, Brazil  
 *June 2024 – August 2024*  
@@ -100,10 +105,10 @@ Passionate about turning data into actionable insights, I specialize in data vis
 - Human Anatomy Drawing - Daniel HDR Drawing Studio (April 2018 – January 2019) 🎨  
 
 ## Connect with Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrilunkes@hotmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-lunkes-b23b531b7)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrilunkes21/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrilunkes@hotmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://linktr.ee/adrilunkes)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrilunkes21/)  
 
 ## Fun Fact
 I'm a dual citizen exploring data opportunities in Europe, and I once volunteered during floods in Brazil to support my community! ⚡
