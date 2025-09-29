@@ -10,14 +10,8 @@ I am a Data Analyst passionate about transforming data into actionable insights.
 Here are some of the technologies and tools I work with:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/-003366?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA" />
-  <img src="https://img.shields.io/badge/-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/-235791?style=for-the-badge&logo=power-bi&logoColor=white" alt="DAX" />
-  <img src="https://img.shields.io/badge/-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://skillicons.dev/icons?i=python,powershell,sqlite,powerbi,excel,postman" />
+  <img src="https://skillicons.dev/icons?i=vba" /> 
 </p>
 
 ---
