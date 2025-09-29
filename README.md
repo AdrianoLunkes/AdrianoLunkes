@@ -9,10 +9,11 @@ I am a Data Analyst passionate about transforming data into actionable insights.
 💻 My Tech Stack
 Here are some of the technologies and tools I work with:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,powershell,sqlite,powerbi,excel,postman" />
-  <img src="https://skillicons.dev/icons?i=vba" /> 
-</p>
+Programming Languages
+<img src="https://skillicons.dev/icons?i=python" alt="Python" /> Python | <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /> PowerShell | <img src="https://skillicons.dev/icons?i=vba" alt="VBA" /> VBA | <img src="https://skillicons.dev/icons?i=powerbi" alt="DAX" /> DAX | <img src="https://skillicons.dev/icons?i=powerbi" alt="M Language" /> M Language | <img src="https://skillicons.dev/icons?i=sqlite" alt="SQL" /> SQL
+
+Tools
+<img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" /> Power BI | <img src="https://skillicons.dev/icons?i=powerbi" alt="Power Query" /> Power Query | <img src="https://skillicons.dev/icons?i=powerpoint" alt="PowerPoint" /> PowerPoint | <img src="https://skillicons.dev/icons?i=sqlite" alt="SQL Databases" /> SQL Databases | <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> Postman | <img src="https://skillicons.dev/icons?i=excel" alt="Excel" /> Excel
 
 ---
 
