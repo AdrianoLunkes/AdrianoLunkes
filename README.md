@@ -1,6 +1,6 @@
 # Hello there, I'm Adriano Lunkes! 👋
 
-### `Data Analyst | Effective Communicator | Dual Citizen 🇧🇷🇱🇺`
+### `Data Analyst | Effective Communicator | Dual Citizen 🇧🇷 🇱🇺`
 
 I am a Data Analyst passionate about transforming data into actionable insights. With a background in Business Administration and hands-on experience in customer success and business analytics, I excel at creating robust data visualizations, reports, and automated processes. I'm always looking for new challenges and opportunities to apply my skills to solve real-world problems.
 
@@ -38,8 +38,14 @@ I’m currently focused on expanding my knowledge in Python for advanced data an
   <a href="mailto:adrilunkes@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linktr.ee/adrilunkes" target="_blank">
+  <a href="https://linktr.ee/adrianolunkes" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.facebook.com/adriano.lunkes.79/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/adrilunkes21/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
