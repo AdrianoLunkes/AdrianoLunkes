@@ -1,12 +1,11 @@
 # Hi there, I'm Adriano Lunkes! 👋
 
-![Profile Banner](https://via.placeholder.com/1280x300?text=Data+Analyst+Passionate+About+Insights+and+Innovation)  
 *Data Analyst | Team Player | Effective Communicator | Dual Citizen (Luxembourg & Brazil) | Open to Relocate 🌍*
 
 ## About Me
 Graduated in Administration from UNISINOS 🎓 with a GPA of 8.5, I enhanced my data analysis skills 💡 through hands-on experience in Customer Success at GEDORE Tool Group. Committed to teamwork 👥 and effective communication 🗣️, I'm proactively seeking to make a positive impact on customers and colleagues. Staying up-to-date in the technology field 💻 while expanding into the new AI era 📈.  
 
-Passionate about turning data into actionable insights, I specialize in data visualization, reporting, and automation. With a background in HR, customer success, and operational management, I'm eager to collaborate on data-driven projects. Let's connect!
+Passionate about turning data into actionable insights, I specialize in data visualization, reporting, and automation. With a background in HR, customer success, and operational management— including practical experience with Python for basic automation, PowerShell for ETL processes (reducing processing time by 40 minutes per run), VBA for scripting sales reports, and SQL for complex queries—I'm eager to collaborate on data-driven projects. Let's connect!
 
 
 ## Skills
@@ -19,6 +18,9 @@ Passionate about turning data into actionable insights, I specialize in data vis
 - Excel 📉
 
 ### Programming Languages
+- Python 🐍
+- PowerShell ⚙️
+- VBA 📝
 - DAX 📈
 - M Language 🖥️
 - SQL 🗃️
@@ -27,6 +29,7 @@ Passionate about turning data into actionable insights, I specialize in data vis
 - Portuguese 🇧🇷 (Native)
 - English 🇺🇸 (Advanced)
 - Spanish 🇪🇸 (Basic)
+- Japanese 🇯🇵 (Basic)
 - Brazilian Sign Language (Libras) 🤟 (Basic)
 
 ## Experience
@@ -100,7 +103,7 @@ Passionate about turning data into actionable insights, I specialize in data vis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-lunkes-b23b531b7)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrilunkes21/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrilunkes@hotmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://linktr.ee/adrilunkes)  <!-- Replace with actual portfolio link if available -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://linktr.ee/adrilunkes)  
 
 ## Fun Fact
 I'm a dual citizen exploring data opportunities in Europe, and I once volunteered during floods in Brazil to support my community! ⚡
