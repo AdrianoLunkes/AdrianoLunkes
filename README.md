@@ -10,10 +10,24 @@ I am a Data Analyst passionate about transforming data into actionable insights.
 Here are some of the technologies and tools I work with:
 
 Programming Languages
-<img src="https://skillicons.dev/icons?i=python" alt="Python" /> Python | <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" /> PowerShell | <img src="https://skillicons.dev/icons?i=vba" alt="VBA" /> VBA | <img src="https://skillicons.dev/icons?i=powerbi" alt="DAX" /> DAX | <img src="https://skillicons.dev/icons?i=powerbi" alt="M Language" /> M Language | <img src="https://skillicons.dev/icons?i=sqlite" alt="SQL" /> SQL
+<p>
+<img src="https://devicon.dev/icons/python/python-original.svg" alt="Python" width="40" height="40" /> <b>Python</b> |
+<img src="https://devicon.dev/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40" /> <b>PowerShell</b> |
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoft-excel.svg" alt="VBA" width="40" height="40" /> <b>VBA</b> |
+<img src="https://skillicons.dev/icons?i=powerbi" alt="DAX" width="40" height="40" /> <b>DAX</b> |
+<img src="https://skillicons.dev/icons?i=powerbi" alt="M Language" width="40" height="40" /> <b>M Language</b> |
+<img src="https://devicon.dev/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40" /> <b>SQL</b>
+</p>
 
 Tools
-<img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" /> Power BI | <img src="https://skillicons.dev/icons?i=powerbi" alt="Power Query" /> Power Query | <img src="https://skillicons.dev/icons?i=powerpoint" alt="PowerPoint" /> PowerPoint | <img src="https://skillicons.dev/icons?i=sqlite" alt="SQL Databases" /> SQL Databases | <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> Postman | <img src="https://skillicons.dev/icons?i=excel" alt="Excel" /> Excel
+<p>
+<img src="https://devicon.dev/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40" /> <b>Power BI</b> |
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoft-powerquery.svg" alt="Power Query" width="40" height="40" /> <b>Power Query</b> |
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoft-powerpoint.svg" alt="PowerPoint" width="40" height="40" /> <b>PowerPoint</b> |
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftsqlserver.svg" alt="SQL Databases" width="40" height="40" /> <b>SQL Databases</b> |
+<img src="https://devicon.dev/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" /> <b>Postman</b> |
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoft-excel.svg" alt="Excel" width="40" height="40" /> <b>Excel</b>
+</p>
 
 ---
 
