@@ -8,7 +8,6 @@ Graduated in Administration from UNISINOS 🎓 with a GPA of 8.5, I enhanced my 
 
 Passionate about turning data into actionable insights, I specialize in data visualization, reporting, and automation. With a background in HR, customer success, and operational management, I'm eager to collaborate on data-driven projects. Let's connect!
 
-![Data Analysis Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXE2dW9yM3Bya2N1Y3J0MXc0cG5rN2x2MzZ5c2Q2c3h4cHB0N2N2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7hy9SlYfGKs/giphy.gif)
 
 ## Skills
 ### Tools
@@ -107,6 +106,5 @@ Passionate about turning data into actionable insights, I specialize in data vis
 I'm a dual citizen exploring data opportunities in Europe, and I once volunteered during floods in Brazil to support my community! ⚡
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianoLunkes&show_icons=true&theme=radical)  
-*Replace 'your-github-username' with your actual GitHub username for stats.*
 
 Thanks for visiting! Feel free to reach out if you'd like to collaborate on data projects. 🚀
