@@ -1,118 +1,50 @@
-# Hi there, I'm Adriano Lunkes! 👋
+# Hello there, I'm Adriano Lunkes! 👋
 
-*Data Analyst | Team Player | Effective Communicator | Dual Citizen (Luxembourg & Brazil) | Open to Relocate 🌍*
+### `Data Analyst | Effective Communicator | Dual Citizen 🇧🇷🇱🇺`
 
-## About Me
-Graduated in Administration from UNISINOS 🎓 with a GPA of 8.5, I enhanced my data analysis skills 💡 through hands-on experience in Customer Success at GEDORE Tool Group. Committed to teamwork 👥 and effective communication 🗣️, I'm proactively seeking to make a positive impact on customers and colleagues. Staying up-to-date in the technology field 💻 while expanding into the new AI era 📈.  
+I am a Data Analyst passionate about transforming data into actionable insights. With a background in Business Administration and hands-on experience in customer success and business analytics, I excel at creating robust data visualizations, reports, and automated processes. I'm always looking for new challenges and opportunities to apply my skills to solve real-world problems.
 
-Passionate about turning data into actionable insights, I specialize in data visualization, reporting, and automation. With practical experience in Python for basic automation, PowerShell for ETL processes (reducing processing time by 40 minutes per run), VBA for scripting sales reports, and SQL for complex queries, I'm eager to collaborate on data-driven projects. Let's connect!
+---
 
+### 💻 My Tech Stack
 
+Here are some of the technologies and tools I work with:
 
-## Tech Stack
-📊 **Power BI** | 🔍 **Power Query** | 🎨 **PowerPoint** | 💾 **SQL Databases** | 🌐 **Postman** | 📉 **Excel**  
-🐍 **Python** | ⚙️ **PowerShell** | 📝 **VBA** | 📈 **DAX** | 🖥️ **M Language** | 🗃️ **SQL**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/VBA-003366?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-235791?style=for-the-badge&logo=power-bi&logoColor=white" alt="DAX" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</p>
 
-## Skills
-### Programming Languages
-- 🐍 **Python** - Basic automation and data processing  
-- ⚙️ **PowerShell** - ETL automation and scripting  
-- 📝 **VBA** - Scripting for reports and macros  
-- 📈 **DAX** - Advanced measures in Power BI  
-- 🖥️ **M Language** - Data transformation in Power Query  
-- 🗃️ **SQL** - Complex queries and database management  
+---
 
-### Tools
-- 📊 **Power BI** - Dashboard development and reporting  
-- 🔍 **Power Query** - Data transformation  
-- 🎨 **PowerPoint** - Presentation design  
-- 💾 **SQL Databases** - Data management  
-- 🌐 **Postman** - API testing  
-- 📉 **Excel** - Data analysis and reporting  
+### 🌱 I’m currently learning...
 
-### Languages
-- 🇧🇷 **Portuguese** (Native)  
-- 🇺🇸 **English** (Advanced)  
-- 🇪🇸 **Spanish** (Basic)  
-- 🇯🇵 **Japanese** (Basic)  
-- 🤟 **Brazilian Sign Language (Libras)** (Basic)  
+I’m currently focused on expanding my knowledge in Python for advanced data analysis and machine learning, and exploring new technologies to build more scalable data solutions.
 
-## Experience
-### Data Assistant - GEDORE Tool Group, Brazil  
-*August 2024 – August 2025*  
-- Created and maintained Power BI reports for multiple departments, focusing on transport companies, sales performance, and representative bonus calculations.  
-- Developed high-impact reports enhancing team efficiency and client outcomes.  
-- Analyzed price lists with SQL, correlating discounts with payment conditions to optimize sales strategies.  
-- Supported the financial sector by identifying order blockages, improving process transparency.  
-- Conducted trade marketing analyses on exclusive launch items to boost campaign effectiveness.  
-- Utilized VBA and PowerShell for data extraction and process automation.  
+---
 
-### Customer Success Assistant - GEDORE Tool Group, Brazil  
-*June 2024 – August 2024*  
-- Managed customer success across seven northern Brazilian states, ensuring high client satisfaction.  
-- Provided support to nine sales representatives and one supervisor, enhancing team coordination.  
-- Developed VBA scripts for weekly sales reports tracking progress against monthly targets.  
-- Supported onboarding of new clients and managed occurrence reporting for delivery issues across all 27 Brazilian states.  
-- Delivered technical assistance and promoted product/service sales through effective communication.  
+### 🌐 Let's Connect!
 
-### Intern / DHO Rotation - GEDORE Tool Group, Brazil  
-*August 2022 – May 2024*  
-- Designed and facilitated employee training programs to enhance skills and performance.  
-- Managed payroll adjustments and timekeeping, ensuring accuracy and compliance.  
-- Streamlined documentation for employee terminations and collaborated on recruitment processes.  
-- Led endomarketing initiatives to boost employee engagement.  
-- Delivered people analytics via Power BI for a company of over 1,200 employees, providing insights into turnover.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/adriano-lunkes-b23b531b7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adrilunkes@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linktr.ee/adrilunkes" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-### Intern Human Resources - Public Health System Estância Velha, Brazil  
-*July 2021 – July 2022*  
-- Supported career advancement programs and managed timekeeping processes.  
-- Processed time cards, medical certificates, vacation requests, and leave documents.  
-- Organized HR documentation, generated reports, and represented HR in meetings.  
+---
 
-### Administrative Assistant - Lunkes Petroleum Products, Brazil  
-*January 2017 – May 2023*  
-- Managed operational tasks, including inventory, supplier negotiations, and financial accuracy.  
-- Oversaw customer account collections, product registrations, and safe fuel operations.  
-- Prepared documents for government entities and contributed to strategic decision-making.  
-
-## Education
-- **Bachelor's Degree in Administration** - University of Vale do Rio dos Sinos (UNISINOS), Brazil  
-  *2016 – September 2024* | GPA: 8.5  
-- **High School** - Marist College Pio XII, Brazil  
-  *2006 – 2016* | GPA: 8.0  
-
-## Certifications
-- Postman API Fundamentals Student Expert (September 2025)  
-- API Testing Learning Path (September 2025)  
-- Power BI: Impressive (February 2025)  
-- Prepare Data for Exploration (June 2024)  
-- Intermediate - Microsoft Excel 2016 (April 2024)  
-- Basic - Microsoft Excel 2016 (April 2024)  
-- Basic Excel for Data Analysis (February 2024)  
-- Ask Questions to Make Data-Driven Decisions (December 2023)  
-- Foundations: Data, Data, Everywhere Course (November 2023)  
-- Wizard English Proficiency (December 2019)  
-- Libras - Introduction to Brazilian Sign Language  
-
-## Volunteer Work
-- **Monitor - Long-Term Financial Management** - SUFIN, UNISINOS (August 2021 – December 2021; October 2021 – September 2024)  
-- **Volunteer - Floods RS** - FENAC, Brazil (May 2024)  
-- **Volunteer - Floods RS** - BRASA Church, Brazil (June 2024)  
-
-## Hobbies & Skills
-- Violin (First and Second Voice) - Instituto de Ivoti – Ascarte Intermediate Orchestra (2014 – 2018) 🎻  
-- White Belt Red, Muay Thai - Go Fight Martial Arts Academy (December 2021) 🥊  
-- Human Anatomy Drawing - Daniel HDR Drawing Studio (April 2018 – January 2019) 🎨  
-
-## Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrilunkes@hotmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-lunkes-b23b531b7)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://linktr.ee/adrilunkes)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrilunkes21/)  
-
-## Fun Fact
-I'm a dual citizen exploring data opportunities in Europe, and I once volunteered during floods in Brazil to support my community! ⚡
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdrianoLunkes&show_icons=true&theme=radical)  
-
-Thanks for visiting! Feel free to reach out if you'd like to collaborate on data projects. 🚀
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrianoLunkes&show_icons=true&theme=radical" alt="Adriano's GitHub Stats" />
+</div>
